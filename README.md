@@ -12,6 +12,7 @@ I'm passionate about building clean, efficient data systems and continuously sha
 - 🌱 Always learning — right now focused on **system design, advanced SQL, and data architecture**
 - 💡 I enjoy solving real-world problems through clean database design and efficient queries
 - 📫 Reach me on GitHub: [@adhmyeager](https://github.com/adhmyeager)
+- 💼 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhm-ahmed-22248a240)
 
 ---
 
